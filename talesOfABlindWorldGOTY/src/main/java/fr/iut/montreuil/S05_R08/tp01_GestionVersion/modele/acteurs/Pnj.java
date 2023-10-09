@@ -71,15 +71,7 @@ public class Pnj extends Acteur {
                 lines.add("Maître m'a parlé de vous, vous êtes à la recherche de réponses ?");
                 break;
             case "spectre":
-            	lines.add("Je pense que si on respect la qualite du dev, comme nos étudiants de 1ere année de DUT de 2021, on peut produire de très beaux projets, comme celui ci !");
-            	lines.add("Je pense que si on respect la qualite du dev, comme nos étudiants de 1ere année de DUT de 2021, on peut produire de très beaux projets, comme celui ci !");
-                lines.add("Vous savez...ce jeu réalisé en 2 mois est très bien fait. Par exemple j ai plusieurs répliques, vous devriez insister un peu...");
-                lines.add("Vous savez...ce jeu réalisé en 2 mois est très bien fait. Par exemple j ai plusieurs répliques, vous devriez insister un peu...");
-                lines.add("Oh non ! Ce jeu qui semble si bien, a été corrompu par un professeur aigri, il dit que vous ne lisiez pas ses mails l'année passée. Vous devez corriger le code mais seulement apres avoir fait le TP correctement et tout push sur git...");
-                lines.add("Oh non ! Ce jeu qui semble si bien, a été corrompu par un professeur aigri, il dit que vous ne lisiez pas ses mails l'année passée. Vous devez corriger le code mais seulement apres avoir fait le TP correctement et tout push sur git...");
-                lines.add("Concorde....con..corde....3.94 ! pourquoi ! 3.94 !!!!");
-                lines.add("Bon aller maintenant faut se mettre à faire le TP si vous voulez une bonne note, on a des évolutions à envoyer en prod !");
-                lines.add("Bon aller maintenant faut se mettre à faire le TP si vous voulez une bonne note, on a des évolutions à envoyer en prod !");
+            	lines.add("eh je t'explique soit tu regaerdes une pub soit tu vas faire des tours de pistes j'veux 5000 pas au compteur ");
                 break;
             case "vieux":
                 lines.add("Mon trésor? vous le cherchez ?! Je l'ai laissé quelque part...");
@@ -184,7 +176,7 @@ public class Pnj extends Acteur {
                 endGameLine.add("Woheeho (thank you!)");
                 break;
             case "panneau":
-                endGameLine.add("LE ONE PIECE! IL EXISTE!");
+                endGameLine.add("Un slogan mythique à ma guise");
                 break;
             case "luigi":
                 endGameLine.add("Il n'est toujours pas sorti... est-ce que Bowser a...");
